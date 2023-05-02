@@ -1,0 +1,12 @@
+﻿Build started...
+1>------ Build started: Project: Layout-ViewModel, Configuration: Debug Any CPU ------
+1>C:\Users\Anar\Desktop\AspNet Core\Layout-ViewImport-ViewStart\Layout-ViewModel\Layout-ViewModel\Models\Slider.cs(7,23,7,28): warning CS8618: Non-nullable property 'Image' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+1>C:\Users\Anar\Desktop\AspNet Core\Layout-ViewImport-ViewStart\Layout-ViewModel\Layout-ViewModel\ViewModels\HomeVM.cs(7,23,7,27): warning CS8618: Non-nullable property 'Logo' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+1>C:\Users\Anar\Desktop\AspNet Core\Layout-ViewImport-ViewStart\Layout-ViewModel\Layout-ViewModel\ViewModels\HomeVM.cs(8,30,8,37): warning CS8618: Non-nullable property 'Student' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+1>C:\Users\Anar\Desktop\AspNet Core\Layout-ViewImport-ViewStart\Layout-ViewModel\Layout-ViewModel\ViewModels\HomeVM.cs(9,23,9,29): warning CS8618: Non-nullable property 'Slider' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+1>C:\Users\Anar\Desktop\AspNet Core\Layout-ViewImport-ViewStart\Layout-ViewModel\Layout-ViewModel\Models\Student.cs(6,23,6,31): warning CS8618: Non-nullable property 'FullName' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+1>C:\Users\Anar\Desktop\AspNet Core\Layout-ViewImport-ViewStart\Layout-ViewModel\Layout-ViewModel\Models\Student.cs(7,23,7,30): warning CS8618: Non-nullable property 'Address' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+1>Layout-ViewModel -> C:\Users\Anar\Desktop\AspNet Core\Layout-ViewImport-ViewStart\Layout-ViewModel\Layout-ViewModel\bin\Debug\net6.0\Layout-ViewModel.dll
+1>Done building project "Layout-ViewModel.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Elapsed 00:00,521 ==========
